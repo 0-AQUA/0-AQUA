@@ -1,5 +1,5 @@
-### wow. big code at it again
-big code does it yet again
+### welcome to github pizzaria
+what would you like. i bet you want a pepperoni and yaml sandwich lol.
 
 <!--
 **AQUASINE/AQUASINE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
