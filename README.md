@@ -1,10 +1,5 @@
 ### welcome to github pizzaria
-what would you like. i bet you want a pepperoni and yaml sandwich lol.
-well um. we dont sell sandwichs so SCRAM! jk haha. just joking hahaha
-
-seconds later, wolves storm into github repository, tearing bot token to shreds
-
-ummm ignore that! so awkward! 😝
+we are all out of pizza forever
 <!--
 **AQUASINE/AQUASINE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
