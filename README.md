@@ -1,7 +1,18 @@
-## welcome to github pizzaria
-we are all out of pizza forever
+# 🔥 🍕 Welcome to Github Pizzaria! 🍕 🔥
+Take your order in the application below!
 
-<iframe src="https://codesandbox.io/embed/6zk98l6w0k" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
+<div align="center">
+<table>
+<tbody>
+<td align="center">
+<img width="2000" height="0"><br>
+<sub>Github Pizzaria is closed permanently due to the ghosts</sub><br>
+<img width="2000" height="0">
+</td>
+</tbody>
+</table>
+</div>
+
 <!--
 **AQUASINE/AQUASINE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
