@@ -1,7 +1,6 @@
 # 🔥 🍕 Welcome to Github Pizzaria! 🍕 🔥
 To get started, fill out your order in the application below! 👇👇👇👇🔥🔥🍕
-
-<br><br>
+<br>
 <div align="center">
 <table>
 <tbody>
