@@ -1,13 +1,13 @@
 # 🔥 🍕 Welcome to Github Pizzaria! 🍕 🔥
-We'll take your order in the application below! 👇👇👇👇🔥🔥
+To get started, fill out your order in the application below! 👇👇👇👇🔥🔥🍕
 
-<br><br><br>
+<br><br>
 <div align="center">
 <table>
 <tbody>
 <td align="center">
 <img width="2000" height="0"><br>
-<sub>Github Pizzaria is closed permanently due to the ghosts</sub><br>
+<sub>Github Pizzaria is closed permanently due to wolves attack</sub><br>
 <img width="2000" height="0">
 </td>
 </tbody>
