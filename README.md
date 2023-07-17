@@ -1,17 +1,38 @@
 # 🔥 🍕 Welcome to Github Pizzaria! 🍕 🔥
+> **Note**<br>
+> <sub>July 17th, 2023</sub><br>
+> Please read our [statement](https://www.twitlonger.com/ab8570ef210) regarding recent events
+
 To get started, fill out your order in the application below! 👇👇👇👇🔥🔥🍕
 <br>
+
 <div align="center">
 <table>
 <tbody>
+
+
 <td align="center">
 <img width="2000" height="0"><br>
-<sub>Github Pizzaria is closed permanently due to wolves attack</sub><br>
+Let's Get Started With Your Github Pizzaria Order!<br><br><br><br><br><br><br><br><br>
+<sub>Github Pizzaria is closed permanently due to wolves attack</sub><br><br><br><br><br><br><br><br><br>
 <img width="2000" height="0">
-</td>
+
+
+  <sub><sub>
+  PizzaMatic POS v2.0.3
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  &emsp;
+  </sub></sub> 
+  </td>
 </tbody>
 </table>
 </div>
+
+![Static Badge](https://img.shields.io/badge/As_seen_on_CNN-purple?logo=cnn)
+![Static Badge](https://img.shields.io/badge/Hours%3A-closed_permanently-red?color=%23ff0000)
+![Static Badge](https://img.shields.io/badge/Holiday_Hours%3A-closed_permanently-red?color=%23ff0000)
 
 <!--
 **AQUASINE/AQUASINE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
