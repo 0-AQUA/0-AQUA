@@ -6,9 +6,9 @@ We'll take your order in the application below! 👇👇👇👇🔥🔥
 <table>
 <tbody>
 <td align="center">
-<img width="2000" height="200"><br>
+<img width="2000" height="0"><br>
 <sub>Github Pizzaria is closed permanently due to the ghosts</sub><br>
-<img width="2000" height="200">
+<img width="2000" height="0">
 </td>
 </tbody>
 </table>
