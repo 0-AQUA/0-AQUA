@@ -12,10 +12,10 @@ To get started, fill out your order in the application below! 👇👇👇👇�
 
 
 <td align="center">
-<img width="2000" height="0"><br>
+<img width="900" height="0"><br>
 Let's Get Started With Your Github Pizzaria Order!<br><br><br><br><br><br><br><br><br>
 <sub>Github Pizzaria is closed permanently due to wolves attack</sub><br><br><br><br><br><br><br><br><br>
-<img width="2000" height="0">
+<img width="900" height="0">
 
 
   <sub><sub>
