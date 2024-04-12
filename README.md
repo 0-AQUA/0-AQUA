@@ -3,7 +3,7 @@
 > <sub>July 17th, 2023</sub><br>
 > Please read our [statement](https://www.twitlonger.com/ab8570ef210) regarding recent events
 
-To get started, fill out your order in the application below! 👇👇👇👇🔥🔥🍕
+To get started on a hot delicious slice of your choice, fill out your order in the application below! 👇👇👇👇🔥🔥🍕
 <br>
 
 <div align="center">
